@@ -1,28 +1,7 @@
-## Hi 👋, I'm Paulo
+## Building software that lasts.
 
-🎓 I graduated in **Computer Science** and have been working as a PHP developer for about 10 years.
+I'm a Software Engineer and Tech Lead passionate about designing scalable systems, leading engineering teams, and solving complex problems through simple, well-structured architectures.
 
-🚀 I work as a **Software Engineer**, focusing on **backend development with PHP/Laravel**, **automation**, **scalability**, **clean architecture**, **maintenance**, and **best practices**.
+Over the years, my journey has taken me from traditional web development to software architecture, distributed systems, DevOps, and AI-assisted engineering. Today, I focus on building reliable platforms, designing APIs, mentoring developers, and continuously improving the way software is engineered.
 
-## 💻 Technologies & Tools
-- **Backend:** PHP (Laravel), Python, JS
-- **Frontend:** React, Angular, JS, HTML, CSS
-- **Infrastructure:** Docker, Nginx, AWS services, Openshift
-- **Others:** SQL (MySQL, MariaDB, Oracle), RabbitMQ, SQS, Redis, Elastic search, etc
-
-## ⚙️ What I Enjoy Doing
-- Building **robust and scalable systems** ready for large volumes of data.
-- Exploring **clean architectures** with well-defined **Services**, **Repositories**, and **Jobs**.
-- Automating processes to make applications more **efficient** and **reliable**.
-- Planning system architectures and solutions
-- Writing articles to share my experiences
-- Respecting the users of the systems I work on and providing quality of life
-
-## 📫 Let's Connect!
-If you'd like to share ideas, collaborate, or have a technical chat:
-- **Email:** [paulomartins94@outlook.com]
-- **LinkedIn:** [https://www.linkedin.com/in/p-martins/]
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories, open issues, or contribute suggestions.
+I see programming as only one part of engineering—the real challenge is understanding problems, making thoughtful technical decisions, and creating systems that remain maintainable as they grow.
